@@ -1,3 +1,5 @@
+7.3.1
+ - Removed some old scripts from the `tools/` directory.
 7.3.0
  - `stream_to` now quotes and escapes its table name.
  - Removed `transaction_base::classname()`.  Did anyone ever use it?
