@@ -1,4 +1,5 @@
 autom4te.cache
+build
 build-*.out
 ChangeLog
 CMakeFiles/CMakeTmp
